@@ -8,7 +8,7 @@ cssutils>=1.0.0
 htmlmin>=0.1.10
 pycparser==2.14
 awscli==1.16.96
-requests==2.20.0
+requests==2.32.0
 PyYAML==4.2b1
 tqdm==4.14.0
 Pygments==2.2.0
